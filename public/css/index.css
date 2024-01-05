@@ -195,7 +195,7 @@ img {
     .pTextWrap {
         width: auto;
         border: none;
-        padding: 0;
+        padding: 1rem;
     }
 
     .pImageWrap {
