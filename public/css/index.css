@@ -189,14 +189,17 @@ img {
     }
 
     .projectBlock {
+        padding: 1rem;
         padding-top: 3rem;
         padding-bottom: 2rem;
+        padding: 1rem;
     }
 
     .pTextWrap {
         width: auto;
         border: none;
-        padding: 1rem;
+        padding-left: 3rem;
+        padding-right: 3rem;
     }
 
     .pImageWrap {
