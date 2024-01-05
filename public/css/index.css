@@ -105,6 +105,7 @@ a {
     padding: 5rem 3rem;
     border-right: 2px rgba(30, 30, 30, .3) solid;
     flex-basis: 40vw;
+    position: relative;
 }
 
 .pTextWrap ul {
